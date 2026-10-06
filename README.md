@@ -1,1 +1,1 @@
-# team-lampochki-project
+# team-lampochka-project
