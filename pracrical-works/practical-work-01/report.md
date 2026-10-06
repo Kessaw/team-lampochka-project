@@ -158,13 +158,9 @@ docs: добавил отчёт по самостоятельной работе
 
 Список Pull Request представлен на следующем скриншоте:
 
-![Список Pull Request](assets/03-pull-requests.png)
+![Список Pull Request](assets/pull-requests.png)
 
-Пример проведённого ревью Pull Request:
 
-![Ревью Pull Request](assets/04-pr-review.png)
-
----
 
 ## 8. Результат работы
 
